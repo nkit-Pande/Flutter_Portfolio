@@ -25,10 +25,8 @@ Below are some images of the application to give you an idea of its design and f
 ![About Me Page Screenshot](screenshot/Screenshot%202024-12-16%20130713.png)
 
 ### Mobile and Tablet Preview
-**Tablet View**
 ![Tablet View Screenshot](screenshot/Screenshot%202024-12-16%20130812.png)
 
-**Mobile View**
 ![Mobile View Screenshot](screenshot/Screenshot%202024-12-16%20130832.png)
 
 The app is fully **responsive**, ensuring it looks great and functions smoothly across all devices including desktops, tablets, and mobile phones.
