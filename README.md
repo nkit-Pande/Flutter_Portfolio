@@ -15,13 +15,13 @@ The primary goal of this project was to explore Flutter’s performance and ease
 Below are some images of the application to give you an idea of its design and features:
 
 ### Web Preview
-**Home Page**
+**Main Screen**
 ![Home Page Screenshot](screenshot/Screenshot%202024-12-16%20130638.png)
 
-**Projects Section**
+**Skill Section**
 ![Projects Section Screenshot](screenshot/Screenshot%202024-12-16%20130647.png)
 
-**About Me Page**
+**My Work Section**
 ![About Me Page Screenshot](screenshot/Screenshot%202024-12-16%20130713.png)
 
 ### Mobile and Tablet Preview
@@ -34,7 +34,6 @@ The app is fully **responsive**, ensuring it looks great and functions smoothly 
 ## Technologies Used
 - **Flutter**: For building the web application.
 - **Dart**: Programming language used by Flutter.
-- **HTML/CSS**: Underlying web technologies used alongside Flutter.
 
 ## How to Run Locally
 To run the app locally, ensure that you have Flutter installed and configured for web development. Follow the steps below:
